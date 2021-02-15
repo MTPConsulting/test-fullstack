@@ -1,9 +1,12 @@
 # test-fullstack
 
-La tarea consiste en crear una aplicación con las siguientes características:
+1. Formulario login con autenticación JWT.
+2. Luego de loguearse, la app tendrá 2 opción de menú: home y user.
+3. Home será una grilla listando los últimos accesos.
+3. La opcion de menú user será un CRUD: Tabla User (email, password, country, photo).
+4. Form editar perfil, cambiar contraseña, y subir foto.
 
-1. Formulario de login con autenticación jwt.
-2. La única tabla de la aplicación es: User (email, password, country).
-3. Crear un ABM de la tabla User. Solo se ingresará al ABM si el usuario se encuentra logueado.
-
-En el frontend se puede utilizar bootstrap o cualquier otro para el diseño.
+### Tecnologías
+Framework backend: A definir
+Framework frontend: A definir, pero tiene que ser un framework moderno.
+Framework: Bootstrap o a definir
