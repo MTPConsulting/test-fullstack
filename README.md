@@ -8,5 +8,7 @@
 
 ### Tecnologías
 Framework backend: A definir
+
 Framework frontend: A definir, pero tiene que ser un framework moderno.
+
 Framework: Bootstrap o a definir
