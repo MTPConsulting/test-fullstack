@@ -3,7 +3,7 @@
 1. Formulario login con autenticación JWT.
 2. Menú con las siguientes opciones: home, movies y users.
 3. La opción home, mostrará dos grilla con los últimos 10 usuarios registrados y otra grilla con las 10 últimas películas registradas.
-4. La opción de menú movies será un CRUD: Tabla Movie (name, country, date, photo, posted_by). El campo posted_by es un FK a la tabla user.
+4. La opción de menú movies será un CRUD: Tabla Movie (name, country, date, photo, posted_by, created). El campo posted_by es un FK a la tabla user.
 5. La opción de menú user será un CRUD: Tabla User (email, password, country, photo, created).
 6. Form editar perfil: cambiar contraseña, y subir foto.
 
