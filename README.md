@@ -13,3 +13,7 @@ A tener en cuenta: Seguir un linter, organizar el código en una capa de servici
 Framework backend: A definir
 
 Framework frontend: A definir, pero tiene que ser un framework moderno.
+
+#### Tiempo
+
+Estimado en unas 3/4 horas.
